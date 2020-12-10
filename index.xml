@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scientific Python :: Ecosystem Coordination</title>
+    <link>https://scientific-python.org/</link>
+    <description>Recent content on Scientific Python :: Ecosystem Coordination</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Jul 2018 11:18:53 -0700</lastBuildDate>
+    
+	<atom:link href="https://scientific-python.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Planning for the Next Decade of Scientific Python</title>
+      <link>https://scientific-python.org/posts/introduction/</link>
+      <pubDate>Fri, 27 Jul 2018 11:18:53 -0700</pubDate>
+      
+      <guid>https://scientific-python.org/posts/introduction/</guid>
+      <description>&lt;p&gt;With an extensive and high-quality ecosystem of libraries, scientific Python
+has emerged as the leading platform for data analysis.
+This ecosystem is sustained by independent volunteers with separate mailing
+lists, websites, roadmaps, documentation, engineering and packaging solutions,
+and governance structures.
+Unfortunately, this also means that there is a lack of coordination that
+results in duplicated effort, disorganized documentation, breakage upon new
+releases, unintended performance regressions, and user confusion.
+Moreover, we have no venue for developing a formal, shared vision
+of the future.&lt;/p&gt;
+&lt;p&gt;Our objective is to prepare scientific Python for the next decade of data science.
+To this end, we will:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Improve common engineering infrastructure,&lt;/li&gt;
+&lt;li&gt;Better coordinate core projects,&lt;/li&gt;
+&lt;li&gt;Write a community vetted strategic plan, and&lt;/li&gt;
+&lt;li&gt;Help the community develop grant proposals.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The developers of these projects are technically able; but they have little
+time to coordinate efforts within their own projects, let alone focus on
+strategies for bringing the entire ecosystem together.  This project will
+provide support where it is deeply needed.&lt;/p&gt;
+&lt;p&gt;Read the &lt;a href=&#34;doc/scientific-python-planning-grant-2020.pdf&#34;&gt;full grant&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Since the grant was written pre-COVID-19, we are currently rethinking our
+original approach, recruiting the advisory council, and shaping the
+initial stage of the grant.  &lt;strong&gt;Watch this space for more, early in
+2021!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This work is funded in part by the Gordon and Betty Moore Foundation through
+grant GBMF8599 to the University of California, Berkeley.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
